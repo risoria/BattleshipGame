@@ -1,0 +1,2 @@
+# BattleshipGame
+First JavaScript project
